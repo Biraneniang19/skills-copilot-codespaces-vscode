@@ -1,4 +1,4 @@
-<header>
+code<header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -13,7 +13,7 @@
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
 
-</header>
+</header>and codespaces
 
 <!--
   <<< Author notes: Step 1 >>>
